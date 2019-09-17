@@ -11,7 +11,6 @@ def fibonacci_series(n):
             series.append(series[i - 1] + series[i - 2])
     return series
 
-
 def fibonacci_number_for_index(n):
     if n <= 1:
         return n
