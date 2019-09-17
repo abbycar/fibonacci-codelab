@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# A couple fibonacci functions
 
 def fibonacci_series(n):
     series = []
